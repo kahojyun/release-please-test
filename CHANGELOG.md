@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.2-beta.1](https://github.com/kahojyun/release-please-test/compare/v0.1.1-beta.1...v0.1.2-beta.1) (2024-04-02)
+
+
+### Features
+
+* hello ([#6](https://github.com/kahojyun/release-please-test/issues/6)) ([6067650](https://github.com/kahojyun/release-please-test/commit/60676502780e213a8072c83c1c68541a0a7f8c82))
+* next ver ([5625f96](https://github.com/kahojyun/release-please-test/commit/5625f967a2648c4371a4ebc1e4117e4e4a95d3d6))
+
 ## [0.1.1-beta.1](https://github.com/kahojyun/release-please-test/compare/v0.1.1-beta...v0.1.1-beta.1) (2024-04-02)
 
 

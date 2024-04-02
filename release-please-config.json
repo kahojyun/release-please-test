@@ -4,7 +4,7 @@
   "bump-patch-for-minor-pre-major": true,
   "packages": {
     ".": {
-      "versioning": "prerelease",
+      "versioning": "default",
       "prerelease": false,
       "prerelease-type": "beta"
     }

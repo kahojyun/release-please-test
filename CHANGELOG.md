@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.2](https://github.com/kahojyun/release-please-test/compare/v0.1.2-beta.1...v0.1.2) (2024-04-02)
+
+
+### Bug Fixes
+
+* handle gh release ([#10](https://github.com/kahojyun/release-please-test/issues/10)) ([523fad1](https://github.com/kahojyun/release-please-test/commit/523fad1859276353f40742e047ebbbf3d845e978))
+* prerelease ([#12](https://github.com/kahojyun/release-please-test/issues/12)) ([84eb29f](https://github.com/kahojyun/release-please-test/commit/84eb29f4db996f4940c3c7326d81e3a871d3c67c))
+* version ([#13](https://github.com/kahojyun/release-please-test/issues/13)) ([7042492](https://github.com/kahojyun/release-please-test/commit/7042492b350090d45f9d0ad1f86b0b3985900436))
+
 ## [0.1.2-beta.1](https://github.com/kahojyun/release-please-test/compare/v0.1.1-beta.1...v0.1.2-beta.1) (2024-04-02)
 
 

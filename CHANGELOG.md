@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/kahojyun/release-please-test/compare/v0.1.2...v0.1.3) (2024-04-02)
+
+
+### Bug Fixes
+
+* publish ([#14](https://github.com/kahojyun/release-please-test/issues/14)) ([d6bae6c](https://github.com/kahojyun/release-please-test/commit/d6bae6c761de1f4e95f61186b97d7809c7373eb2))
+
 ## [0.1.2](https://github.com/kahojyun/release-please-test/compare/v0.1.2-beta.1...v0.1.2) (2024-04-02)
 
 

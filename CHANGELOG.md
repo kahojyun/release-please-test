@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6-alpha](https://github.com/kahojyun/release-please-test/compare/v0.1.5-alpha...v0.1.6-alpha) (2024-09-27)
+
+
+### Features
+
+* good ([#21](https://github.com/kahojyun/release-please-test/issues/21)) ([59a27c3](https://github.com/kahojyun/release-please-test/commit/59a27c356b9a2abcd2ad6b419eab03d3846d9957))
+
 ## [0.1.5-alpha](https://github.com/kahojyun/release-please-test/compare/v0.1.4...v0.1.5-alpha) (2024-09-27)
 
 

@@ -5,7 +5,8 @@
   "packages": {
     ".": {
       "prerelease-type": "alpha",
-      "prerelease": true
+      "prerelease": true,
+      "versioning": "prerelease"
     }
   }
 }
